@@ -1,0 +1,14 @@
+# Git
+.git
+.gitignore
+
+# Documentation
+*.md
+!website/README.md
+
+# WordPress theme (not needed for static deployment)
+website/wordpress-theme
+
+# Misc
+.DS_Store
+*.log
