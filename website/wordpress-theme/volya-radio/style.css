@@ -1,0 +1,18 @@
+/*
+Theme Name: Volya Radio
+Theme URI: https://volyaradio.com
+Author: Volya Radio Volunteers
+Author URI: https://volyaradio.com
+Description: Official WordPress theme for Volya Radio - Volunteers supporting Ukraine's victory through news, analysis, advocacy, and vetted fundraising.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: volya-radio
+Tags: one-column, custom-colors, custom-menu, featured-images, full-width-template, translation-ready
+
+Volya Radio WordPress Theme
+Mission: To Aid Ukraine in Victory
+*/
+
+/* Import main styles */
+@import url('css/main.css');
